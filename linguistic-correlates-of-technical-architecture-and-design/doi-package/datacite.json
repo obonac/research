@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "types": {
+    "resourceTypeGeneral": "Text",
+    "resourceType": "proposal"
+  },
+  "titles": [
+    {
+      "title": "Linguistic Correlates of Technical Architecture and Design"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "nameType": "Personal",
+      "givenName": "Abhishek",
+      "familyName": "Choudhary"
+    }
+  ],
+  "publisher": "Zenodo",
+  "publicationYear": "2026",
+  "subjects": [
+    {
+      "subject": "architecture"
+    },
+    {
+      "subject": "design"
+    },
+    {
+      "subject": "engineering"
+    },
+    {
+      "subject": "linguistics"
+    },
+    {
+      "subject": "software"
+    },
+    {
+      "subject": "systems"
+    }
+  ],
+  "version": "1.0.0",
+  "descriptions": [
+    {
+      "description": "Academic research poster exploring the linguistic, engineering, educational, organizational and societal correlates of the concepts Architecture and Design.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "GPL-3.0-or-later",
+      "rightsIdentifier": "GPL-3.0-or-later",
+      "rightsIdentifierScheme": "SPDX"
+    }
+  ],
+  "language": "eng"
+}

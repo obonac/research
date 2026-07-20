@@ -1,0 +1,26 @@
+{
+  "title": "Linguistic Correlates of Technical Architecture and Design",
+  "version": "1.0.0",
+  "doi": null,
+  "license": "gpl-3.0",
+  "artifacts": [
+    {
+      "name": "poster.png",
+      "size": 2317987,
+      "sha256": "17cb27950258badbf43aa4c9db5296b796b74658eb979e8d3699e0ef914c8131"
+    }
+  ],
+  "metadata_files": [
+    "metadata.json",
+    "zenodo.json",
+    "datacite.json",
+    "codemeta.json",
+    "CITATION.cff"
+  ],
+  "reproducibility": {
+    "checksums": {
+      "poster.png": "17cb27950258badbf43aa4c9db5296b796b74658eb979e8d3699e0ef914c8131"
+    },
+    "tool": "misty-doi"
+  }
+}

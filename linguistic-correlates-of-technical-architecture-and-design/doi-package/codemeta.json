@@ -1,0 +1,25 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Linguistic Correlates of Technical Architecture and Design",
+  "description": "Academic research poster exploring the linguistic, engineering, educational, organizational and societal correlates of the concepts Architecture and Design.",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/GPL-3.0-or-later",
+  "keywords": [
+    "architecture",
+    "design",
+    "engineering",
+    "linguistics",
+    "software",
+    "systems"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "familyName": "Choudhary",
+      "givenName": "Abhishek"
+    }
+  ],
+  "dateModified": "2026-07-20",
+  "codeRepository": "https://github.com/obonac/research"
+}

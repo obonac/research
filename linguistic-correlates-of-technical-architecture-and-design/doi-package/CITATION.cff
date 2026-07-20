@@ -1,0 +1,17 @@
+cff-version: "1.2.0"
+message: "If you use this software, please cite it as below."
+title: "Linguistic Correlates of Technical Architecture and Design"
+version: "1.0.0"
+abstract: "Academic research poster exploring the linguistic, engineering, educational, organizational and societal correlates of the concepts Architecture and Design."
+authors:
+  - family-names: "Choudhary"
+    given-names: "Abhishek"
+license: "GPL-3.0-or-later"
+keywords:
+  - "architecture"
+  - "design"
+  - "engineering"
+  - "linguistics"
+  - "software"
+  - "systems"
+repository-code: "https://github.com/obonac/research"

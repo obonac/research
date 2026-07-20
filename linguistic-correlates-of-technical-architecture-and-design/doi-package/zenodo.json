@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "title": "Linguistic Correlates of Technical Architecture and Design",
+    "version": "1.0.0",
+    "upload_type": "publication",
+    "publication_type": "proposal",
+    "description": "Academic research poster exploring the linguistic, engineering, educational, organizational and societal correlates of the concepts Architecture and Design.",
+    "license": "gpl-3.0",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Choudhary, Abhishek"
+      }
+    ],
+    "keywords": [
+      "architecture",
+      "design",
+      "engineering",
+      "linguistics",
+      "software",
+      "systems"
+    ],
+    "language": "eng"
+  }
+}

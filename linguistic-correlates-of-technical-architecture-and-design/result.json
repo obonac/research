@@ -1,0 +1,18 @@
+{
+  "tool": "misty-doi",
+  "state": "published",
+  "doi": "10.5281/zenodo.21446982",
+  "concept_doi": "10.5281/zenodo.21446981",
+  "record_url": "https://zenodo.org/record/21446982",
+  "deposition_id": 21446982,
+  "bucket": "https://zenodo.org/api/files/cf75f926-4e52-4337-8270-e3e1ce972ac8",
+  "sandbox": false,
+  "files": [
+    {
+      "name": "poster.png",
+      "size": 2317987,
+      "sha256": "17cb27950258badbf43aa4c9db5296b796b74658eb979e8d3699e0ef914c8131"
+    }
+  ],
+  "generated_at": "2026-07-20T00:28:29+00:00"
+}
