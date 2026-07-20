@@ -1,0 +1,61 @@
+{
+  "title": "The Five-Dimensional Orthogonal Mentation Manifold (5DOMM): Research Funding Proposal Template for a Multi-Institution Collaborative Research Programme",
+  "version": "1.0.0",
+
+  "upload_type": "publication",
+  "publication_type": "proposal",
+
+  "description": "Research funding proposal template and programme charter for the Five-Dimensional Orthogonal Mentation Manifold (5DOMM). This publication presents the canonical governance model, collaborative programme architecture, work-package framework, mathematical foundations, research roadmap, validation strategy, licensing, and funding template for an open multi-institution research programme investigating the geometry of human mentation, Mentative Identity, cognitive development, and the mathematical theory of self. The document is intended as a reusable reference proposal enabling independent Principal Investigators and collaborating institutions to develop interoperable funding proposals while remaining aligned with the canonical 5DOMM Research Programme.",
+
+  "license": "cc-by-nd-4.0",
+  "access_right": "open",
+
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "AyeAI",
+      "orcid": "0009-0002-0684-8320"
+    }
+  ],
+
+  "keywords": [
+    "5domm",
+    "five-dimensional-orthogonal-mentation-manifold",
+    "mentation",
+    "mentative-identity",
+    "cognitive-science",
+    "mathematical-psychology",
+    "psychology",
+    "neuroscience",
+    "computational-neuroscience",
+    "artificial-intelligence",
+    "geometry-of-self",
+    "geometry-of-cognition",
+    "cognitive-development",
+    "state-space",
+    "manifold",
+    "differential-geometry",
+    "topology",
+    "information-geometry",
+    "dynamical-systems",
+    "systems-science",
+    "cognitive-modeling",
+    "measurement-theory",
+    "psychometrics",
+    "educational-science",
+    "philosophy-of-mind",
+    "human-ai-collaboration",
+    "brain-computer-interface",
+    "research-programme",
+    "programme-governance",
+    "collaborative-research",
+    "consortium",
+    "funding-proposal",
+    "proposal-template",
+    "open-science"
+  ],
+
+  "related_identifiers": [],
+
+  "repository": "https://github.com/obonac/research"
+}
