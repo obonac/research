@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "AAB-e-Zistgah: A Paint Program for Systems — From Painted Intent to Verified, Sealed Artifact"
+version: "1.0.0"
+
+authors:
+  - family-names: Choudhary
+    given-names: Abhishek
+
+license: GPL-3.0
