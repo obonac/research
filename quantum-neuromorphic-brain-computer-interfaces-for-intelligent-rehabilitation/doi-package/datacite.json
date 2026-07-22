@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "types": {
+    "resourceTypeGeneral": "Text",
+    "resourceType": "proposal"
+  },
+  "titles": [
+    {
+      "title": "Quantum Neuromorphic Brain–Computer Interfaces for Intelligent Rehabilitation"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "nameType": "Personal",
+      "givenName": "Abhishek",
+      "familyName": "Choudhary"
+    }
+  ],
+  "publisher": "Zenodo",
+  "publicationYear": "2026",
+  "subjects": [
+    {
+      "subject": "brain-computer-interface"
+    },
+    {
+      "subject": "quantum-neuromorphic-computing"
+    },
+    {
+      "subject": "rehabilitation"
+    },
+    {
+      "subject": "rehabilitation-engineering"
+    },
+    {
+      "subject": "neurotechnology"
+    },
+    {
+      "subject": "computational-neuroscience"
+    },
+    {
+      "subject": "semantic-computing"
+    },
+    {
+      "subject": "semantic-neural-computing"
+    },
+    {
+      "subject": "cognitive-prosthetics"
+    },
+    {
+      "subject": "brain-robot-interface"
+    },
+    {
+      "subject": "intelligent-rehabilitation"
+    },
+    {
+      "subject": "neural-decoding"
+    },
+    {
+      "subject": "neuromusical-therapeutics"
+    },
+    {
+      "subject": "assistive-technology"
+    },
+    {
+      "subject": "prosthetics"
+    },
+    {
+      "subject": "neuroscience"
+    },
+    {
+      "subject": "robotics"
+    },
+    {
+      "subject": "artificial-intelligence"
+    },
+    {
+      "subject": "cognitive-science"
+    },
+    {
+      "subject": "human-ai-collaboration"
+    },
+    {
+      "subject": "translational-medicine"
+    },
+    {
+      "subject": "rehabilitation-medicine"
+    },
+    {
+      "subject": "open-science"
+    },
+    {
+      "subject": "reproducibility"
+    },
+    {
+      "subject": "pedler"
+    },
+    {
+      "subject": "ilm"
+    },
+    {
+      "subject": "quantum-neuromorphic-bci"
+    }
+  ],
+  "version": "1.0.0",
+  "descriptions": [
+    {
+      "description": "Academic research poster describing a collaborative translational research programme integrating Quantum Neuromorphic Brain–Computer Interfaces (BCI), semantic neural computing, rehabilitation neurotechnology, cognitive prosthetics, brain–robot interfaces, neuromusical therapeutics, and intelligent rehabilitation. The poster presents the evolution of the research programme from computational cognition (1993–2001), PEDLER cognitive architecture (2001–2010), semantic computing (2010–2025), and Quantum Neuromorphic BCI (2025–present), culminating in an integrated human-centered rehabilitation ecosystem spanning neuroscience, AI, robotics, cognitive science, semantic computing, clinical translation, and open science.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "GPL-3.0-or-later",
+      "rightsIdentifier": "GPL-3.0-or-later",
+      "rightsIdentifierScheme": "SPDX"
+    }
+  ],
+  "language": "eng"
+}

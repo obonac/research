@@ -1,0 +1,46 @@
+{
+  "title": "Quantum Neuromorphic Brain–Computer Interfaces for Intelligent Rehabilitation",
+  "version": "1.0.0",
+  "upload_type": "publication",
+  "publication_type": "proposal",
+  "description": "Academic research poster describing a collaborative translational research programme integrating Quantum Neuromorphic Brain–Computer Interfaces (BCI), semantic neural computing, rehabilitation neurotechnology, cognitive prosthetics, brain–robot interfaces, neuromusical therapeutics, and intelligent rehabilitation. The poster presents the evolution of the research programme from computational cognition (1993–2001), PEDLER cognitive architecture (2001–2010), semantic computing (2010–2025), and Quantum Neuromorphic BCI (2025–present), culminating in an integrated human-centered rehabilitation ecosystem spanning neuroscience, AI, robotics, cognitive science, semantic computing, clinical translation, and open science.",
+  "license": "gpl-3.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek"
+    }
+  ],
+  "keywords": [
+    "brain-computer-interface",
+    "quantum-neuromorphic-computing",
+    "rehabilitation",
+    "rehabilitation-engineering",
+    "neurotechnology",
+    "computational-neuroscience",
+    "semantic-computing",
+    "semantic-neural-computing",
+    "cognitive-prosthetics",
+    "brain-robot-interface",
+    "intelligent-rehabilitation",
+    "neural-decoding",
+    "neuromusical-therapeutics",
+    "assistive-technology",
+    "prosthetics",
+    "neuroscience",
+    "robotics",
+    "artificial-intelligence",
+    "cognitive-science",
+    "human-ai-collaboration",
+    "translational-medicine",
+    "rehabilitation-medicine",
+    "open-science",
+    "reproducibility",
+    "pedler",
+    "ilm",
+    "quantum-neuromorphic-bci"
+  ],
+  "related_identifiers": [],
+  "repository": "https://github.com/obonac/research",
+  "language": "eng"
+}

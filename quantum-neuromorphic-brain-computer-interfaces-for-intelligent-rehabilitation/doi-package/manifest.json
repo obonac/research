@@ -1,0 +1,26 @@
+{
+  "title": "Quantum Neuromorphic Brain–Computer Interfaces for Intelligent Rehabilitation",
+  "version": "1.0.0",
+  "doi": null,
+  "license": "gpl-3.0",
+  "artifacts": [
+    {
+      "name": "poster.png",
+      "size": 2081583,
+      "sha256": "d26951b3440a519f0ddfb6e46db17b14387d6cafa1c31d00f9f90896fd27ac8f"
+    }
+  ],
+  "metadata_files": [
+    "metadata.json",
+    "zenodo.json",
+    "datacite.json",
+    "codemeta.json",
+    "CITATION.cff"
+  ],
+  "reproducibility": {
+    "checksums": {
+      "poster.png": "d26951b3440a519f0ddfb6e46db17b14387d6cafa1c31d00f9f90896fd27ac8f"
+    },
+    "tool": "misty-doi"
+  }
+}
