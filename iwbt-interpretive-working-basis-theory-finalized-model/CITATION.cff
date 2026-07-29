@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "IWBT — Interpretive Working Basis Theory (Finalized Model)"
+version: "4.0.0"
+
+authors:
+  - family-names: Choudhary
+    given-names: Abhishek
+
+license: GPL-3.0

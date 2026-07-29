@@ -1,0 +1,54 @@
+{
+  "title": "IWBT — Interpretive Working Basis Theory (Finalized Model)",
+  "version": "4.0.0",
+
+  "upload_type": "publication",
+  "publication_type": "proposal",
+
+  "description": "Academic research poster presenting the Interpretive Working Basis Theory (IWBT), a multi-level, multi-dimensional, systemic theory of interpretive failure and its propagation. The model formalizes interpretive dissonance as the proximal cause of interpretive failure while explaining how identity structures, culture, institutions, power structures, incentive systems, observer variables, historical trajectories, and contextual ecology generate, amplify, propagate, and correct interpretive outcomes. The framework integrates conceptual architecture, causal analysis, mathematical formulation, feedback dynamics, empirical predictions, and ethical foundations into a unified theory applicable across psychology, artificial intelligence, linguistics, sociology, governance, education, organizational systems, and civilizational analysis.",
+
+  "license": "gpl-3.0",
+  "access_right": "open",
+
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "AyeAI",
+      "orcid": "0009-0002-0684-8320"
+    }
+  ],
+
+  "keywords": [
+    "iwbt",
+    "interpretive-working-basis-theory",
+    "interpretive-dissonance",
+    "interpretation",
+    "cognitive-science",
+    "psychology",
+    "artificial-intelligence",
+    "systems-theory",
+    "systems-thinking",
+    "causal-modeling",
+    "interpretive-ecology",
+    "identity-structures",
+    "institutional-analysis",
+    "observer-effects",
+    "epistemology",
+    "ontology",
+    "mathematical-modeling",
+    "feedback-systems",
+    "governance",
+    "organizational-behaviour",
+    "sociology",
+    "linguistics",
+    "communication",
+    "decision-making",
+    "philosophy",
+    "ethics",
+    "civilizational-analysis"
+  ],
+
+  "related_identifiers": [],
+
+  "repository": "https://github.com/obonac/research"
+}
