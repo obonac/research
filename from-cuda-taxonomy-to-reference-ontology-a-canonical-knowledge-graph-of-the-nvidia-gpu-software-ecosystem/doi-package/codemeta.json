@@ -1,0 +1,56 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "From CUDA Taxonomy to Reference Ontology: A Canonical Knowledge Graph of the NVIDIA GPU Software Ecosystem",
+  "description": "Academic research poster presenting a canonical reference ontology for the NVIDIA CUDA software ecosystem. The work organizes GPU hardware, runtime systems, compilers, numerical libraries, AI frameworks, communication layers, enterprise platforms, and scientific computing into a unified typed knowledge graph. The ontology defines semantic metadata, explicit dependency relationships, orthogonal graph projections, and executable graph traversals that enable reasoning, dependency analysis, semantic querying, impact analysis, version tracking, automated discovery, and engineering intelligence across the complete CUDA ecosystem. The framework demonstrates how layered taxonomies evolve into executable knowledge graphs supporting software architecture analysis, graph databases, formal ontologies, AI-assisted engineering, and knowledge-driven software ecosystem management.",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/GPL-3.0-or-later",
+  "keywords": [
+    "cuda",
+    "nvidia",
+    "gpu",
+    "reference-ontology",
+    "knowledge-graph",
+    "ontology",
+    "taxonomy",
+    "graph-database",
+    "semantic-web",
+    "rdf",
+    "owl",
+    "property-graph",
+    "software-architecture",
+    "dependency-analysis",
+    "compiler",
+    "nvcc",
+    "llvm",
+    "cuda-runtime",
+    "tensorrt",
+    "cudnn",
+    "cublas",
+    "nccl",
+    "cutlass",
+    "rapids",
+    "pytorch",
+    "ai-frameworks",
+    "hpc",
+    "scientific-computing",
+    "graph-traversal",
+    "semantic-query",
+    "engineering-intelligence",
+    "software-ecosystem"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "familyName": "Choudhary",
+      "givenName": "Abhishek",
+      "@id": "https://orcid.org/0009-0002-0684-8320",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "AyeAI"
+      }
+    }
+  ],
+  "dateModified": "2026-07-31",
+  "codeRepository": "https://github.com/obonac/research"
+}

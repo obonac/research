@@ -1,0 +1,26 @@
+{
+  "title": "From CUDA Taxonomy to Reference Ontology: A Canonical Knowledge Graph of the NVIDIA GPU Software Ecosystem",
+  "version": "1.0.0",
+  "doi": null,
+  "license": "gpl-3.0",
+  "artifacts": [
+    {
+      "name": "poster.png",
+      "size": 2084417,
+      "sha256": "13e24fdb1665f19702b85e07b2dec171d5f1ed63694e466fecf61347b370a472"
+    }
+  ],
+  "metadata_files": [
+    "metadata.json",
+    "zenodo.json",
+    "datacite.json",
+    "codemeta.json",
+    "CITATION.cff"
+  ],
+  "reproducibility": {
+    "checksums": {
+      "poster.png": "13e24fdb1665f19702b85e07b2dec171d5f1ed63694e466fecf61347b370a472"
+    },
+    "tool": "misty-doi"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "types": {
+    "resourceTypeGeneral": "Text",
+    "resourceType": "proposal"
+  },
+  "titles": [
+    {
+      "title": "From CUDA Taxonomy to Reference Ontology: A Canonical Knowledge Graph of the NVIDIA GPU Software Ecosystem"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "nameType": "Personal",
+      "givenName": "Abhishek",
+      "familyName": "Choudhary",
+      "affiliation": [
+        {
+          "name": "AyeAI"
+        }
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/0009-0002-0684-8320",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    }
+  ],
+  "publisher": "Zenodo",
+  "publicationYear": "2026",
+  "subjects": [
+    {
+      "subject": "cuda"
+    },
+    {
+      "subject": "nvidia"
+    },
+    {
+      "subject": "gpu"
+    },
+    {
+      "subject": "reference-ontology"
+    },
+    {
+      "subject": "knowledge-graph"
+    },
+    {
+      "subject": "ontology"
+    },
+    {
+      "subject": "taxonomy"
+    },
+    {
+      "subject": "graph-database"
+    },
+    {
+      "subject": "semantic-web"
+    },
+    {
+      "subject": "rdf"
+    },
+    {
+      "subject": "owl"
+    },
+    {
+      "subject": "property-graph"
+    },
+    {
+      "subject": "software-architecture"
+    },
+    {
+      "subject": "dependency-analysis"
+    },
+    {
+      "subject": "compiler"
+    },
+    {
+      "subject": "nvcc"
+    },
+    {
+      "subject": "llvm"
+    },
+    {
+      "subject": "cuda-runtime"
+    },
+    {
+      "subject": "tensorrt"
+    },
+    {
+      "subject": "cudnn"
+    },
+    {
+      "subject": "cublas"
+    },
+    {
+      "subject": "nccl"
+    },
+    {
+      "subject": "cutlass"
+    },
+    {
+      "subject": "rapids"
+    },
+    {
+      "subject": "pytorch"
+    },
+    {
+      "subject": "ai-frameworks"
+    },
+    {
+      "subject": "hpc"
+    },
+    {
+      "subject": "scientific-computing"
+    },
+    {
+      "subject": "graph-traversal"
+    },
+    {
+      "subject": "semantic-query"
+    },
+    {
+      "subject": "engineering-intelligence"
+    },
+    {
+      "subject": "software-ecosystem"
+    }
+  ],
+  "version": "1.0.0",
+  "descriptions": [
+    {
+      "description": "Academic research poster presenting a canonical reference ontology for the NVIDIA CUDA software ecosystem. The work organizes GPU hardware, runtime systems, compilers, numerical libraries, AI frameworks, communication layers, enterprise platforms, and scientific computing into a unified typed knowledge graph. The ontology defines semantic metadata, explicit dependency relationships, orthogonal graph projections, and executable graph traversals that enable reasoning, dependency analysis, semantic querying, impact analysis, version tracking, automated discovery, and engineering intelligence across the complete CUDA ecosystem. The framework demonstrates how layered taxonomies evolve into executable knowledge graphs supporting software architecture analysis, graph databases, formal ontologies, AI-assisted engineering, and knowledge-driven software ecosystem management.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "GPL-3.0-or-later",
+      "rightsIdentifier": "GPL-3.0-or-later",
+      "rightsIdentifierScheme": "SPDX"
+    }
+  ],
+  "language": "eng"
+}
