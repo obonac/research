@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "From CUDA Taxonomy to Reference Ontology: A Canonical Knowledge Graph of the NVIDIA GPU Software Ecosystem"
+version: "1.0.0"
+
+authors:
+  - family-names: Choudhary
+    given-names: Abhishek
+
+license: GPL-3.0

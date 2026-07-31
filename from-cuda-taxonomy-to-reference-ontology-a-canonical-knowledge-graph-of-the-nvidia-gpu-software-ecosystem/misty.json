@@ -1,0 +1,59 @@
+{
+  "title": "From CUDA Taxonomy to Reference Ontology: A Canonical Knowledge Graph of the NVIDIA GPU Software Ecosystem",
+  "version": "1.0.0",
+
+  "upload_type": "publication",
+  "publication_type": "proposal",
+
+  "description": "Academic research poster presenting a canonical reference ontology for the NVIDIA CUDA software ecosystem. The work organizes GPU hardware, runtime systems, compilers, numerical libraries, AI frameworks, communication layers, enterprise platforms, and scientific computing into a unified typed knowledge graph. The ontology defines semantic metadata, explicit dependency relationships, orthogonal graph projections, and executable graph traversals that enable reasoning, dependency analysis, semantic querying, impact analysis, version tracking, automated discovery, and engineering intelligence across the complete CUDA ecosystem. The framework demonstrates how layered taxonomies evolve into executable knowledge graphs supporting software architecture analysis, graph databases, formal ontologies, AI-assisted engineering, and knowledge-driven software ecosystem management.",
+
+  "license": "gpl-3.0",
+  "access_right": "open",
+
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "AyeAI",
+      "orcid": "0009-0002-0684-8320"
+    }
+  ],
+
+  "keywords": [
+    "cuda",
+    "nvidia",
+    "gpu",
+    "reference-ontology",
+    "knowledge-graph",
+    "ontology",
+    "taxonomy",
+    "graph-database",
+    "semantic-web",
+    "rdf",
+    "owl",
+    "property-graph",
+    "software-architecture",
+    "dependency-analysis",
+    "compiler",
+    "nvcc",
+    "llvm",
+    "cuda-runtime",
+    "tensorrt",
+    "cudnn",
+    "cublas",
+    "nccl",
+    "cutlass",
+    "rapids",
+    "pytorch",
+    "ai-frameworks",
+    "hpc",
+    "scientific-computing",
+    "graph-traversal",
+    "semantic-query",
+    "engineering-intelligence",
+    "software-ecosystem"
+  ],
+
+  "related_identifiers": [],
+
+  "repository": "https://github.com/obonac/research"
+}
