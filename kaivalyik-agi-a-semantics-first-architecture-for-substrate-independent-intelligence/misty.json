@@ -1,0 +1,57 @@
+{
+  "title": "Kaivalyik AGI: A Semantics-First Architecture for Substrate-Independent Intelligence",
+  "version": "1.0.0",
+
+  "upload_type": "publication",
+  "publication_type": "proposal",
+
+  "description": "Academic research poster introducing the Kaivalyik AGI architecture, a semantics-first framework for substrate-independent intelligence. The architecture separates semantic intent from implementation, treating computational, biological, ecological, and future realizations as interchangeable embodiments of a common verified semantic identity. It introduces a formal refinement calculus in which intent remains invariant while realization adapts through admissible refinements under explicit observation models and constraints. The framework defines Computational Embodied Models (CEMs), Biological Embodied Models (CEMb), Ecological Embodied Models (Eco-CEM), and Knowledge Engineering with Living Processes (KELP) as coordinated realization domains connected through verified semantic translation. The poster presents a verification-centered architecture supporting continuous realization, hybrid intelligence, substrate independence, semantic knowledge representation, multi-scale intelligence, and adaptive self-improvement while preserving semantic correctness across computational, biological, ecological, and hybrid systems.",
+
+  "license": "gpl-3.0",
+  "access_right": "open",
+
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "AyeAI",
+      "orcid": "0009-0002-0684-8320"
+    }
+  ],
+
+  "keywords": [
+    "kaivalyik-agi",
+    "artificial-general-intelligence",
+    "semantics-first",
+    "substrate-independent-intelligence",
+    "computational-intent",
+    "semantic-refinement",
+    "refinement-calculus",
+    "formal-semantics",
+    "verification",
+    "verification-centered-ai",
+    "semantic-identity",
+    "computational-realization",
+    "biological-realization",
+    "ecological-realization",
+    "hybrid-intelligence",
+    "adaptive-intelligence",
+    "kelp",
+    "cems",
+    "cemb",
+    "eco-cem",
+    "knowledge-engineering",
+    "semantic-translation",
+    "ontology",
+    "knowledge-representation",
+    "semantic-ir",
+    "formal-methods",
+    "computational-biology",
+    "neuromorphic-computing",
+    "sustainable-ai",
+    "trustworthy-ai"
+  ],
+
+  "related_identifiers": [],
+
+  "repository": "https://github.com/obonac/research"
+}

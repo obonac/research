@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Kaivalyik AGI: A Semantics-First Architecture for Substrate-Independent Intelligence"
+version: "1.0.0"
+
+authors:
+  - family-names: Choudhary
+    given-names: Abhishek
+
+license: GPL-3.0
