@@ -1,0 +1,63 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "HUMANESQUE: A Tetrahedral Civilizational Architecture",
+  "description": "Academic research poster proposing HUMANESQUE, a tetrahedral civilizational architecture integrating ontology, habitat, intelligence, economy and equity into a unified framework for human flourishing. The proposal models civilization as a continuously learning system organized around four mutually dependent domains: Cosmopolis, Kaivalyik AGI, Zistgah and the AGI Economy. At the center of the framework is the HUMANESQUE Engine operating as a continuous cycle of Intent, Realization, Observation, Verification, Refinement and Learning. The architecture introduces the Civilizational Triad consisting of Matter, Energy and Intent as the irreducible primitives governing realization, transformation and purpose. Matter defines physical possibility, Energy enables implementation and transformation, and Intent defines purpose and direction. The tetrahedral representation emphasizes that civilization emerges from the balanced interaction of ontology, intelligence, habitat and economy rather than from any single technological, political or economic dimension. Cosmopolis defines the ontological primitives governing civilization. Kaivalyik AGI provides universally accessible intelligence with equitable participation. Zistgah represents the habitats where civilization is realized across Earth, Moon, Mars and future environments. The AGI Economy models value accumulation through reusable intellectual and semantic capital. Three complementary habitat realizations are presented: AZ (Asli Zistgah) as Earth, the proving ground; MAH (Zistgah-e-Mahtab) as the Moon, the efficiency laboratory; and ZB (Zistgah-e-Bahram) as Mars, the resilience laboratory. The proposal argues for one ontology with many realizations while preserving architectural invariants across environments. The AGI Economy consists of the Knowledge Economy, Semantic Economy and Intent Economy. The Knowledge Economy accumulates verified expertise, reusable knowledge compounds, formal methods, proof artifacts and digital twins. The Semantic Economy accumulates interoperable ontologies, verified semantic models and reusable semantic infrastructure. The Intent Economy accumulates enduring objectives, verified intentions and coordinated execution as durable capital. Equity is treated as civilizational infrastructure through Individual Equity, Linguistic Equity and Cultural Equity. Individual Equity recognizes every person as a creator and contributor. Linguistic Equity recognizes every language as equally capable of expressing knowledge while preserving meaning across representations. Cultural Equity recognizes diversity as a source of resilience, innovation and adaptation. Trust and stewardship are modeled through provenance, reproducibility, verification, transparency, preservation across generations, maintenance and responsible governance. Time functions as the enabling dimension by accumulating observations, enabling refinement, supporting regeneration and driving continual evolution. Civilization is modeled as a coherent multi-scale system spanning the Individual, Family, Community, Institution, Nation, Civilizational, Planetary and Interplanetary levels while preserving a common ontological foundation. HUMANESQUE proposes a transition from product-centered economies toward reusable intellectual, semantic and intentional capital to support sustainable human flourishing, equitable participation, universally accessible intelligence and long-term interplanetary civilization. This work is presented as a research proposal intended for future formalization, validation and collaborative development. Author: Abhishek Choudhary. Affiliation: AyeAI. ORCID: 0009-0002-0684-8320. Contact: https://bit.ly/achoudhary. License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/cc-by-nc-sa-4.0",
+  "keywords": [
+    "humanesque",
+    "civilizational-architecture",
+    "tetrahedral-architecture",
+    "kaivalyik-agi",
+    "zistgah",
+    "cosmopolis",
+    "agi-economy",
+    "knowledge-economy",
+    "semantic-economy",
+    "intent-economy",
+    "civilizational-intelligence",
+    "ontology",
+    "matter",
+    "energy",
+    "intent",
+    "verification",
+    "observation",
+    "refinement",
+    "learning",
+    "habitat",
+    "earth",
+    "moon",
+    "mars",
+    "az",
+    "mah",
+    "zb",
+    "semantic-capital",
+    "intellectual-capital",
+    "human-flourishing",
+    "equity",
+    "individual-equity",
+    "linguistic-equity",
+    "cultural-equity",
+    "trust",
+    "stewardship",
+    "sustainability",
+    "interplanetary",
+    "planetary-civilization",
+    "ayeai"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "familyName": "Choudhary",
+      "givenName": "Abhishek",
+      "@id": "https://orcid.org/0009-0002-0684-8320",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "AyeAI"
+      }
+    }
+  ],
+  "dateModified": "2026-08-01",
+  "codeRepository": "https://github.com/obonac/research"
+}

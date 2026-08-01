@@ -1,0 +1,26 @@
+{
+  "title": "HUMANESQUE: A Tetrahedral Civilizational Architecture",
+  "version": "1.0.0",
+  "doi": null,
+  "license": "cc-by-nc-sa-4.0",
+  "artifacts": [
+    {
+      "name": "poster.png",
+      "size": 2582726,
+      "sha256": "8bca5a63b36008c7a7f93c2484fc2aead1c5f10b685bd4e98a359a108268e33b"
+    }
+  ],
+  "metadata_files": [
+    "metadata.json",
+    "zenodo.json",
+    "datacite.json",
+    "codemeta.json",
+    "CITATION.cff"
+  ],
+  "reproducibility": {
+    "checksums": {
+      "poster.png": "8bca5a63b36008c7a7f93c2484fc2aead1c5f10b685bd4e98a359a108268e33b"
+    },
+    "tool": "misty-doi"
+  }
+}
