@@ -1,0 +1,156 @@
+BUILDING INSIDE THE HUMANESQUE ECOSYSTEM
+A brief for anyone vibe-coding something and wanting it to count.
+Paste this whole thing into your AI before you start. Read it yourself first.
+
+WHAT THIS IS
+Humanesque is a constituted realm: an epistemic, intellectual and
+technological domain with its own contract, its own tooling and its own
+provenance chain. Within it sit Zistgah (the habitat), ILM (language and
+script), FAKIR (domains), PEDLER (physics/intent semantics) and a working
+publishing and provenance stack that is already built, already licensed,
+already minted and already public.
+
+You are invited to build on it. You are not asked to submit to it.
+Recognition is not submission; non-participation is not denial; disagreement
+is not disrespect. Use what helps you, ignore the rest, keep your own
+sovereignty over your own realm. That is a stated principle here, not a
+courtesy — Sovereignty without Suzerainty.
+
+STEP 0 — RETRIEVE BEFORE YOU BUILD
+Do not design from what your AI remembers. Clone and read:
+  github.com/zistgah/governance   → CONTRACT.md · CONTEXT.md · AGENTS.md
+The master contract is twelve clauses plus a numbered clause series. The ones
+that will bite you first:
+  · Retrieval before assumption — discover, never hardcode. Org lists, repo
+    lists, registries, endpoints: query the authoritative source, paginated.
+  · No vendor lock-in — provider abstraction, bring-your-own-key, and at
+    least one keyless or self-hostable path. Never name an AI vendor in
+    shipped text; ship a placeholder and let the operator choose.
+  · Nothing hardcoded, anywhere — handles, endpoints, review repos,
+    callbacks. Shipping a default is fine. Shipping a constant is not.
+  · Verify by execution — a test proves nothing until you have watched it
+    fail. A definition is not a call. Assert the CALL SITE.
+  · Never bluff — done means executed. Written-but-unrun says so. Partial is
+    reported as partial; four of ten is never progress on ten. Retrieved
+    beats remembered. A 404 at one path is reported as exactly that.
+  · Gated irreversibility — anything public and permanent (a push, a DOI, a
+    deletion) happens only when a human types an assertion word plus a
+    reason. That typed line IS the intent record.
+  · Build context before you touch a repo — a canonical mirror is read, a
+    working copy is edited. Never edit canonical in place.
+  · No dead stops, no donkey work — a script that can do the thing does the
+    thing. Printing "now run this" to your operator is the failure, not the
+    fallback.
+A per-repo CONTRACT.md may ADD constraints. It may never relax them.
+
+STEP 1 — DO NOT REBUILD WHAT EXISTS
+All of this is live, public, licensed and DOI'd. Fork it, drive it, extend
+it — but do not reinvent it and then tell us it is new.
+
+  · zistgah/kitab — config-driven publishing template. A book is a config
+    plus content JSON plus figures; the plumbing is never touched. Three
+    readers (paginated / scroll / liquid), figures that explain themselves,
+    read aloud and hand off to an AI, inline exercises, issue-based comments.
+  · zistgah/matba — the press. Local app + web UI + CLI + Colab notebook,
+    stdlib only, no dependencies. Automates the whole seed → doctor → seal →
+    push → mint path. Carries the composing room and THE CYCLER.
+    https://zistgah.github.io/matba/ · DOI 10.5281/zenodo.21948734
+  · zistgah/dome — the shared virtual dome as a config-driven library. Mount
+    your own display inside it; worlds are config, never forks.
+  · zistgah/mez — the desk. Where the tools sit when you are working.
+  · project-ilm/misty-doi — `pipx install misty-doi`, CLI `misty`. Metadata,
+    packaging, OpenTimestamps, Zenodo minting, concept-vs-version DOIs, and
+    MASI: seven scholarly tracks (ethics, prereg, paper, journal, conference,
+    chapter, patent) with gates that bite. DOI 10.5281/zenodo.20719388
+  · project-ilm/tok-doi — atomic provenance. Register cryptographic proof at
+    arbitrary granularity: artifact → SHA-256 → OpenTimestamps → registry.
+    Browser-first, no backend, keyless. DOI 10.5281/zenodo.21402745
+  · zistgah/poie — the Proclamation of Individual Equity, the root
+    constitutional artifact. DOI 10.5281/zenodo.21397274
+
+THE CYCLER — the pattern worth stealing
+Most people do not have an API budget and should not have to. The cycler is a
+one-button clipboard loop: press once to copy the prompt, go to whichever AI
+you use, come back and press once more — it reads the clipboard, routes the
+answer to the step it belongs to by SHAPE, files it, and copies the next
+prompt. No form filling. No provider preconfigured. The AI source table ships
+EMPTY and the operator adds their own.
+Two rules that came out of building it, and that you should adopt:
+  · Endpoints are shapes, not providers. Ship the shape, never the brand.
+  · Filesystem visibility is not provenance. When files appear in a folder,
+    say "3 new files are visible" — never "3 files your AI generated".
+
+STEP 2 — BUILD IT PROPERLY
+  · Static first. GitHub Pages, no backend, no server-side secret. If it
+    needs a server to be useful, it is not finished.
+  · No browser storage as the source of truth. State in memory, truth in
+    exported files.
+  · Scripts: idempotent on rerun, run from the invoking directory, never
+    /tmp, tokens read by PATH and never inlined or passed as flags.
+  · Patch by exact anchor and abort if the anchor moved. Never regenerate a
+    whole file because it was easier.
+  · Report a gap. Never fill one with an invention.
+
+STEP 3 — SEAL AND MINT
+  1. SHA-256 manifest over the tracked tree. Receipts written and stamped
+     FIRST, then the manifest, then stamp the manifest — a manifest cannot
+     contain the hash of its own proof.
+  2. OpenTimestamps every receipt: `misty ots stamp <path>`, one path per
+     invocation. Absent tool = step declared skipped, never faked.
+  3. Mint: `misty publish -m <metadata> -f <artifact> <figures...>`, then
+     RECORD THE DOI BACK into config, metadata, CITATION.cff and the README
+     badge. A minted DOI that is not written back into the repo is a defect,
+     and it is the most common one.
+  4. Version, do not duplicate: `misty newversion` under the concept DOI. Two
+     records of the same work under two concept DOIs cannot be merged
+     afterwards without begging the registry.
+
+LICENSING — decide before the first commit
+  · Code: GPL-3.0-or-later unless a repo states otherwise. SPDX header in
+    every file. Ship the full licence text unmodified.
+  · Docs, schemas, sample content: CC BY-SA 4.0.
+  · Constitutional artifacts are CC BY-ND — quote them, cite them, do not
+    rewrite them and call the result the same instrument.
+  · Your own work carries YOUR copyright line and YOUR name. Attribution
+    runs both ways; nobody here wants your authorship.
+  · If you intend to contribute upstream rather than fork, ask about the
+    inbound contribution terms first — a dual-licensing policy is in
+    preparation and is not yet published. Do not assume either way.
+
+THE HONOUR SYSTEM
+Copyleft is enforceable in principle and almost never enforced in practice at
+this scale, which means what you do with it is a statement about you, not
+about the risk you are running. Credit upstream when nobody would catch you.
+Say what you forked in the commit message, not only in a README nobody opens.
+Do not strip headers. Do not re-badge someone's architecture as inspiration.
+Cite the DOI when you build on the work — that is what it exists for. And
+when someone builds on yours, take it as the compliment it is.
+
+Mint your own work. Attribute what is not yours. That is the whole rule.
+
+HOW TO COME IN
+  · Build the thing. Publish it. Get it a DOI of your own.
+  · Open an issue on whichever repo you built against — say what you took,
+    what you changed, what broke.
+  · The strongest way in is a COUNTER-OBSERVATION: find where the contract,
+    the tooling or the argument is wrong, and say so with evidence.
+    Agreement earns nothing here. A defect found earns standing. Nothing is
+    ever deleted as a sanction and nobody is characterised as defective for
+    walking away.
+  · Sign the Proclamation of Individual Equity if it speaks to you, and do
+    not if it does not. Both are answers.
+
+WHAT TO SEND BACK
+Reply with:
+  (i)   your repo URL
+  (ii)  your licence files and your copyright line
+  (iii) your DOI, or why you have decided not to mint
+  (iv)  one thing in this brief you think is wrong
+
+TELL YOUR AI THIS TOO
+Read before you assert. Do not substitute a familiar concept for the one you
+were actually given, then reason well about the wrong thing. Do not reach for
+"what accepted category does this reduce to" before "what ontology makes this
+coherent". Reconstruct faithfully, then critique with evidence, not tone.
+Understanding is not agreement — and disagreement after accurate
+reconstruction is welcome.

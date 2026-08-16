@@ -1,0 +1,59 @@
+{
+  "title": "Building Inside the Humanesque Ecosystem",
+  "version": "1.0.0",
+
+  "upload_type": "publication",
+  "publication_type": "proposal",
+
+  "description": "A practical builder brief for anyone creating software, research, tooling, or other artifacts within or alongside the Humanesque ecosystem. The brief introduces Humanesque as a constituted epistemic, intellectual, and technological domain with its own contract, tooling, provenance chain, and publishing infrastructure, and establishes the governing principle of Sovereignty without Suzerainty: recognition is not submission, non-participation is not denial, and disagreement is not disrespect. It directs builders to retrieve authoritative governance material before building; avoid rebuilding existing infrastructure; use provider-neutral, non-hardcoded, execution-verified, provenance-aware workflows; apply gated irreversibility; distinguish canonical mirrors from working copies and filesystem visibility from provenance; and use the existing Zistgah, ILM, FAKIR, PEDLER, kitab, matba, dome, mez, Misty DOI, tok-doi, and Proclamation of Individual Equity infrastructure. It also specifies sealing, OpenTimestamps, DOI minting, versioning, licensing, attribution, contribution, and counter-observation practices. Its governing rule is: Mint your own work. Attribute what is not yours.",
+
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "Humanesque",
+      "orcid": ""
+    }
+  ],
+
+  "keywords": [
+    "humanesque",
+    "zistgah",
+    "ilm",
+    "fakir",
+    "pedler",
+    "sovereignty-without-suzerainty",
+    "epistemic-sovereignty",
+    "individual-equity",
+    "software-development",
+    "ai-assisted-development",
+    "vibe-coding",
+    "open-source",
+    "research-software",
+    "provenance",
+    "digital-provenance",
+    "opentimestamps",
+    "doi",
+    "zenodo",
+    "misty-doi",
+    "tok-doi",
+    "verification",
+    "verification-gated-development",
+    "retrieval-before-assumption",
+    "vendor-neutrality",
+    "provider-abstraction",
+    "reproducibility",
+    "intellectual-property",
+    "attribution",
+    "copyleft",
+    "constitutional-artifacts",
+    "counter-observation",
+    "humanesque-ecosystem"
+  ],
+
+  "related_identifiers": [],
+
+  "repository": "https://github.com/obonac/research"
+}
