@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "title": "Quack Quack - I See You (for Robots)",
+    "version": "1.0.0",
+    "upload_type": "publication",
+    "publication_type": "proposal",
+    "description": "A humorous technical-medical research poster presenting a fictional emergency repair case for a robotic canine whose voice has failed during chassis teardown. The poster is structured as an Electronic Medical Record (EMR) using the familiar Subjective, Objective, Assessment, and Plan (SOAP) format. It describes acute loss of vocalization following disconnection of the robot's motor loads; examination identifies an intact main control board and a severely damaged acoustic transducer/voice coil; continuity testing characterizes the native coil as an open circuit (R -> infinity); and a salvaged donor voice coil is characterized as electrically viable with an impedance of 8 ohms. The assessment humorously frames the failure as Acute Vocal Coil Paralysis secondary to an iatrogenic hyper-current shock. Its engineering explanation treats the disconnected parallel motor loads as a circuit-level change that redirects electrical stress toward the audio circuit, with Joule heating represented by P = I^2 R and the resulting thermal damage to the copper winding. The proposed treatment is a Total Voice Coil Allograft (Transplant): prepare and attach the donor coil to the synthetic diaphragm, mount and center the diaphragm-coil assembly in the magnetic gap, connect the donor leads to the appropriate circuit pads, restore the motor loads before reapplying power, and perform a post-operative power cycle to test recovery of the robot's bark. The work deliberately mixes engineering terminology, medical-record conventions, surgical language, and absurd clinical humor to illustrate an electronics repair as if it were a robotic emergency-care case. The poster is intended as a comedic technical artifact rather than a clinical medical document or a claim of medical practice.",
+    "license": "gpl-3.0",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Choudhary,Abhishek",
+        "affiliation": "AyeAI",
+        "orcid": "0009-0002-0684-8320"
+      }
+    ],
+    "keywords": [
+      "robotics",
+      "electronics",
+      "audio",
+      "speaker",
+      "voice-coil",
+      "electrical-engineering",
+      "circuit-analysis",
+      "kirchhoff",
+      "joule-heating",
+      "impedance",
+      "electromechanical-systems",
+      "robot-repair",
+      "robotic-canine",
+      "engineering-humor",
+      "medical-record-parody",
+      "soap-format",
+      "technical-poster",
+      "hardware-repair",
+      "embedded-systems",
+      "mechatronics"
+    ],
+    "language": "eng"
+  }
+}

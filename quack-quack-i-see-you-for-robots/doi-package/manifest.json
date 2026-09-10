@@ -1,0 +1,26 @@
+{
+  "title": "Quack Quack - I See You (for Robots)",
+  "version": "1.0.0",
+  "doi": null,
+  "license": "gpl-3.0",
+  "artifacts": [
+    {
+      "name": "poster.png",
+      "size": 2404390,
+      "sha256": "40fd68ae7528a277c1efc31d0408c7cb54e0a88bd741f30342e53e7785c43df6"
+    }
+  ],
+  "metadata_files": [
+    "metadata.json",
+    "zenodo.json",
+    "datacite.json",
+    "codemeta.json",
+    "CITATION.cff"
+  ],
+  "reproducibility": {
+    "checksums": {
+      "poster.png": "40fd68ae7528a277c1efc31d0408c7cb54e0a88bd741f30342e53e7785c43df6"
+    },
+    "tool": "misty-doi"
+  }
+}
