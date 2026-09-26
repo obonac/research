@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "PANINIphy v1.0: Physical Realization Arm of the PANINI Computational Platform"
+version: "1.0.0"
+
+authors:
+  - family-names: Choudhary
+    given-names: Abhishek
+
+license: GPL-3.0

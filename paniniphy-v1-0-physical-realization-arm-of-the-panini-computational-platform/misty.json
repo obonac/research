@@ -1,0 +1,61 @@
+{
+  "title": "PANINIphy v1.0: Physical Realization Arm of the PANINI Computational Platform",
+  "version": "1.0.0",
+
+  "upload_type": "publication",
+  "publication_type": "proposal",
+
+  "description": "Academic research poster announcing PANINIphy v1.0, the physical realization arm of the PANINI platform. PANINIphy extends a common, domain-agnostic computational spine rather than creating a second language, compiler, resolver, provenance system, artifact graph, verification framework, animation stack, or robotics-only architecture. It introduces a typed Physical IR and domain-specific engines for physical resolution, state, constraints, components, materials, interfaces, assembly, geometry, kinematics, reference dynamics, actuation, robotics, manufacturing and realization planning, observation, and machine capability contracts. Physical realizations converge with PANINIb at the shared spatial boundary: domain state to point-cloud/spatial representation to geometry, trajectory, animation, 3D/VR, observation, evidence, verification, provenance, and ArtifactGraph. The v1.0 implementation includes executable robotics workflows for modular components, six-face interfaces, opposite-face and electro-permanent-magnet compatibility, assembly and reconfiguration, prismatic actuation, declared power and communication interfaces, sensor artifacts, and voxel-lattice fixtures; offline parts intelligence with deterministic catalog fixtures; reference FDM, robotic-arm, inspection, and physical-machine backends; common verification with explicit separation of design, planning, execution, observation, verification, and validation; and a 235-test executable baseline with 235 tests passing. Geometry remains schematic/uncalibrated, dynamics is a deterministic reference implementation rather than validated industrial physics, and real machine execution, calibrated metrology, live vendor/parts commerce, telemetry, CNC/FDM/robot/vision drivers, FEM, CFD, thermal and electromagnetic simulation remain outside the validated v1.0 boundary. PANINIphy is intended as a research platform for robotics, modular and self-reconfigurable systems, engineered physical structures, computational design, manufacturing research, simulation, digital twins, scientific software, and future experimental integration. The release invites collaboration from researchers and engineers in robotics, mechanical engineering, manufacturing, materials, controls, mechatronics, simulation, digital twins, computer science, AI, formal methods, scientific software, metrology, experimental validation, and responsible physical-system engineering. PANINIphy is intended for research use with explicit provenance, capability and authorization boundaries, uncertainty, safety controls, and compliance with applicable laws, institutional requirements, machine-safety procedures, and ethical standards.",
+
+  "license": "cc-by-4.0",
+  "access_right": "open",
+
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "AyeAI",
+      "orcid": "0009-0002-0684-8320"
+    }
+  ],
+
+  "keywords": [
+    "paniniphy",
+    "panini",
+    "physical-realization",
+    "computational-platform",
+    "robotics",
+    "modular-robotics",
+    "self-reconfigurable-robotics",
+    "voxel-robotics",
+    "physical-computation",
+    "computational-design",
+    "mechanical-systems",
+    "mechatronics",
+    "manufacturing",
+    "additive-manufacturing",
+    "digital-twin",
+    "kinematics",
+    "dynamics",
+    "actuation",
+    "sensors",
+    "geometry",
+    "point-cloud",
+    "simulation",
+    "physical-ir",
+    "realization-planning",
+    "parts-intelligence",
+    "machine-capabilities",
+    "verification",
+    "provenance",
+    "artifact-graph",
+    "reproducibility",
+    "scientific-software",
+    "open-science",
+    "responsible-research",
+    "AyeAI"
+  ],
+
+  "related_identifiers": [],
+
+  "repository": "https://github.com/obonac/research"
+}
